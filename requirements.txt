@@ -1,0 +1,4 @@
+autogen-agentchat
+autogen-ext[openai,ollama,azure]
+python-dotenv
+pytest
